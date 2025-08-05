@@ -110,8 +110,5 @@ You’ll see in your console:
 - **Missing Artifacts**: Ensure you have all three `.pkl` files in the `artifacts/` folder.
 - **Dependency Errors**: Install the modules listed in the [Prerequisites](#1-prerequisites).
 
----
 
-## 6. Contact
 
-For additional support or bug reports, please email [pkhod015@uottawa.ca].
